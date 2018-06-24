@@ -1,0 +1,17 @@
+{
+  "name": "rezayatmandi",
+  "version": "1.0.0",
+  "description": "rezayatmandi for shiva amvaj company",
+  "main": "login.js",
+  "scripts": {
+    "start": "node server/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AliFattahi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "hbs": "^4.0.1",
+    "nodemon": "^1.17.5"
+  }
+}
